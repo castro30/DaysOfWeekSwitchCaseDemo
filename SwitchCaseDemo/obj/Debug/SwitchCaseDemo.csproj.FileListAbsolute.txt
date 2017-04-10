@@ -1,0 +1,6 @@
+C:\Temp\SwitchCaseDemo\SwitchCaseDemo\bin\Debug\SwitchCaseDemo.exe.config
+C:\Temp\SwitchCaseDemo\SwitchCaseDemo\bin\Debug\SwitchCaseDemo.exe
+C:\Temp\SwitchCaseDemo\SwitchCaseDemo\bin\Debug\SwitchCaseDemo.pdb
+C:\Temp\SwitchCaseDemo\SwitchCaseDemo\obj\Debug\SwitchCaseDemo.csprojResolveAssemblyReference.cache
+C:\Temp\SwitchCaseDemo\SwitchCaseDemo\obj\Debug\SwitchCaseDemo.exe
+C:\Temp\SwitchCaseDemo\SwitchCaseDemo\obj\Debug\SwitchCaseDemo.pdb
